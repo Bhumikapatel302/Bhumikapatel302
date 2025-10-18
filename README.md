@@ -15,6 +15,8 @@ I'm Bhumika, a Computer Science student with a strong foundation in Python, mach
 * **Email:** bp7249951@gmail.com
 * **LinkedIn:** [linkedin.com/in/Bhumika-patel-ml](https://linkedin.com/in/Bhumika-patel-ml)
 * **GitHub:** [github.com/Bhumikapatel302](https://github.com/Bhumikapatel302)
+* **HuggigFace_ML_PROJECTS:** [https://huggingface.co/bhumika007](https://huggingface.co/bhumika007)
+* **PORTFOLIO** [Bhumika_Patel_PORTFOLIO](https://huggingface.co/spaces/Abs6187/Bhumika_Patel_PORTFOLIO)
 
 ---
 
